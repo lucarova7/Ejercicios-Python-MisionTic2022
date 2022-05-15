@@ -1,2 +1,2 @@
-# Ejercicios-Python-MisionTic2022
-Compilacion de Ejercicios basicos de Python3 para MisionTic2022
+Python-MisionTic2022
+Compilacion de Ejercicios y proyectos de MisionTic2022 en Python3
