@@ -1,3 +1,5 @@
+#Incluir Ciclo for
+
 numeroPaquetes = int(input())
 costoTotal = 0
 
